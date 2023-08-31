@@ -1,0 +1,52 @@
+[
+  {
+    "name": "John Smith",
+    "age": 30,
+    "city": "New York"
+  },
+  {
+    "name": "Emma Johnson",
+    "age": 28,
+    "city": "Los Angeles"
+  },
+  {
+    "name": "Michael Brown",
+    "age": 35,
+    "city": "Chicago"
+  },
+  {
+    "name": "Sophia Davis",
+    "age": 25,
+    "city": "Miami"
+  },
+  {
+    "name": "Daniel Wilson",
+    "age": 32,
+    "city": "Houston"
+  },
+  {
+    "name": "Olivia Martinez",
+    "age": 29,
+    "city": "San Francisco"
+  },
+  {
+    "name": "David Johnson",
+    "age": 40,
+    "city": "Atlanta"
+  },
+  {
+    "name": "Ava Jones",
+    "age": 22,
+    "city": "Seattle"
+  },
+  {
+    "name": "William Thompson",
+    "age": 27,
+    "city": "Boston"
+  },
+  {
+    "name": "Isabella Harris",
+    "age": 31,
+    "city": "Denver"
+  }
+]
